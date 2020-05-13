@@ -1,0 +1,19 @@
+div {
+	border-style: groove;
+	border-color: green;
+	margin: 5px
+}
+
+#third p {
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+#fifth {
+	display: none;
+}
+
+
