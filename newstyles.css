@@ -1,9 +1,11 @@
-div {
+p {
 	border-style: groove;
 	border-color: green;
 	margin: 5px
 }
-
-#third > p  {
-	font-size: 200%
+p {
+	color: blue;
+}
+h1 {
+	font-family: "Century Gothic"
 }
